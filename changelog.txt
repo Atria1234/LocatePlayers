@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2023-07-30
+  Features:
+    - Adds hotkey and shortcut to show other players on the map.

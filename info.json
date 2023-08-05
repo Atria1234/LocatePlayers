@@ -1,0 +1,11 @@
+{
+  "name": "LocatePlayers",
+  "version": "1.0.0",
+  "title": "Locate Players",
+  "author": "Atria",
+  "contact": "tomas.chmelik2@gmail.com",
+  "homepage": "https://github.com/Atria1234/LocatePlayers",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "Adds hotkey and shortcut to show other players on the map."
+}
